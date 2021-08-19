@@ -1,0 +1,9 @@
+{
+  "bindings": [
+    {
+      "name": "blobPath",
+      "type": "activityTrigger",
+      "direction": "in"
+    }
+  ]
+}
